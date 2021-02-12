@@ -5,7 +5,9 @@ description = "Python tools for accountants."
 authors = ["SamEdwardes <edwardes.s@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.9"
+pandas = "^1.2.2"
+rich = "^9.10.0"
 
 [tool.poetry.dev-dependencies]
 
